@@ -25,7 +25,7 @@ plt.grid(True)
 ######################################
 #
 # Show the scatter plot of total distribution, similar to the one on Toronto Police website
-# plt.show()
+plt.show()
 
 sorted = df_noout.sort_values('OCC_DATE')
 # sorted
